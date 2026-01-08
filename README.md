@@ -57,3 +57,10 @@ Bullet list of high-level conclusions.
 ---
 
 ## 📁 Repo Layout
+wazuh-detection-analysis/
+│── README.md
+│── datasets/
+│── scripts/
+│── results/
+│── diagrams/
+│── screenshots/
