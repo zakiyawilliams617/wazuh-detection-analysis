@@ -1,4 +1,3 @@
-# wazuh-detection-analysis
 # 🛡️ Wazuh Detection Analysis — Multi-Endpoint Evaluation
 
 ## 📌 Purpose
